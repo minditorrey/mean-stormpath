@@ -1,4 +1,4 @@
-var app = angular.module('mean-stormpath', ['ui.router', 'stormpath', 'stormpath.templates']);
+var app = angular.module('meanStormpath', ['ui.router', 'stormpath', 'stormpath.templates']);
 
 app.run(function($stormpath){
   $stormpath.uiRouter({

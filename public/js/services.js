@@ -1,6 +1,6 @@
 'use strict';
 
-// var app = angular.module('mean-stormpath');
+var app = angular.module('meanStormpath');
 
 // app.service('ProfileService', function($http) {
 	
